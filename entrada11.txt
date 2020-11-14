@@ -1,0 +1,16 @@
+Joseloid International Airport
+Torre de controle: mensagens recebidas
+Bla
+Bla
+=========================================
+MESSAGE           FLIGHT  FROM
+
+INICIO              0000  -
+pista_liberada      0000  -
+pede_pouso          1234  Amsterdam
+URGENCIA            1234  Amsterdam
+pede_pouso          5678  Roma
+URGENCIA            5678  Roma
+pista_liberada      0000  -
+pista_liberada      0000  -
+FIM                 0000  -
